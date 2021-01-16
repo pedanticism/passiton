@@ -1,4 +1,3 @@
-Just dumping this here for now... will tidy up and put it in git tomorrow
 #! /bin/bash
 
 #Usage run `sudo -v` before you run the script
