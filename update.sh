@@ -2,8 +2,8 @@
 
 #Usage run `sudo -v` before you run the script
 
-sudo apt update
-sudo apt upgrade
+sudo apt -y update
+sudo apt -y upgrade
 
 # Download zoom and Teams  installer
 wget -O ~/Downloads/zoom.deb https://zoom.us/client/latest/zoom_amd64.deb
